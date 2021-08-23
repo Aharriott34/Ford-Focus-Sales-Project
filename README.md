@@ -22,4 +22,5 @@ SQLite was used to create a database of all the information for the Ford Focus. 
 Python 3 was used to visualize the table made from SQLite, to show the progress of the Ford Focus.
 
 Visualization:
+[Ford Focus Stats Chart.pdf](https://github.com/Aharriott34/Ford-Focus-Sales-Project/files/7035185/Ford.Focus.Stats.Chart.pdf)
 
